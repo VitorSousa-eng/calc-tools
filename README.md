@@ -92,3 +92,8 @@ Embora as saídas sejam simbólicas, a conversão para valores numéricos pode s
 
 ```python
 valor_numerico = float(expressao_sympy)
+```
+
+---
+**Autor:** Vitor Sousa,
+Estudante de Engenharia Civil - UFMG
