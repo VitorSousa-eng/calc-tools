@@ -1,5 +1,10 @@
 # Automação de Cálculos em Cálculo Diferencial
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Licença MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-green?style=for-the-badge)
+![Math](https://img.shields.io/badge/math-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-%233B5249.svg?style=for-the-badge&logo=python&logoColor=white)
+
 Este projeto fornece um conjunto de ferramentas para **automatizar cálculos recorrentes** em  Cálculo Diferencial I, como análise de continuidade, métodos da primeira e segunda derivada e determinação de máximos e mínimos em intervalos fechados.
 
 O código foi desenvolvido com **foco em legibilidade, robustez e clareza conceitual**, priorizando a compreensão do processo matemático sobre otimizações agressivas de desempenho.
